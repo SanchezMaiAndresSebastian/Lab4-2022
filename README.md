@@ -62,11 +62,11 @@ Este es el principio de superposición y se puede extender a un número cualquie
 
 - Diagramas eléctricos
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/11.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
 
 - Diagrama de bloques
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/9.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/2.png)
 
 ### 4.	LISTA DE COMPONENTES
 
@@ -85,26 +85,31 @@ Este es el principio de superposición y se puede extender a un número cualquie
 #### SIMULACIÓN
 Se tiene que preparar los componentes antes de la construcción del circuito
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
 
 ###### _FIGURA 5_
 
 Se hace la creación del circuito del diagrama eléctrico en el protoboard
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/6.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/4.png)
 
 ###### _FIGURA 6_
 
-Se mide el voltaje en la Resistencia R3
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/7.png)
-
-Se mide la corriente en el nodo 2 
-
-
-
+Se mide el voltaje en la Resistencia R3 y la corriente Ix
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/5.png)
 
 ###### _FIGURA 7_
+
+Se mide el voltaje en la Resistencia R3  y la corriente  Ix cuando V2 = 0
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/6.png)
+###### _FIGURA 7_
+
+
+Se mide el voltaje en la Resistencia R3  y la corriente  Ix cuando V1 = 0
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/7.png)
+###### _FIGURA 7_
+
+
 
 #### MEDICIÓN
 
@@ -118,21 +123,30 @@ Se hace la creación del circuito del diagrama eléctrico en el protoboard
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/9.png)
 ###### _FIGURA 9_
 
-Se hace la creación del circuito del diagrama eléctrico en el protoboard uniendo los conectores de cables
+Se mide el voltaje de R3
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/8.png)
+###### _FIGURA 7_
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/10.png)
-###### _FIGURA 10_
+Se mide la corriente de Ix
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+###### _FIGURA 7_
 
-Se mide el voltaje del nodo 1
+Se mide el voltaje de R3 cuando V2 = 0
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+###### _FIGURA 7_
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/11.png)
-###### _FIGURA 11_
+Se mide la corriente de Ix cuando V2 = 0
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+###### _FIGURA 7_
 
-Se mide el voltaje del nodo 2
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/12.png)
-###### _FIGURA 12_
+Se mide el voltaje de R3 cuando V1 = 0
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+###### _FIGURA 7_
 
+Se mide la corriente de Ix cuando V1 = 0
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+###### _FIGURA 7_
 
  
 ### 4.	RESPUESTAS A INTERROGANTES
