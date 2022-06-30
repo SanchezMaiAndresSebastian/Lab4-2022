@@ -87,27 +87,27 @@ Se tiene que preparar los componentes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
 
-###### _FIGURA 5_
+###### _FIGURA 7_
 
 Se hace la creación del circuito del diagrama eléctrico en el protoboard
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/4.png)
 
-###### _FIGURA 6_
+###### _FIGURA 8_
 
 Se mide el voltaje en la Resistencia R3 y la corriente Ix
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/4.png)
 
-###### _FIGURA 7_
+###### _FIGURA 9_
 
 Se mide el voltaje en la Resistencia R3  y la corriente  Ix cuando V2 = 0
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/5.png)
-###### _FIGURA 7_
+###### _FIGURA 10_
 
 
 Se mide el voltaje en la Resistencia R3  y la corriente  Ix cuando V1 = 0
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/6.png)
-###### _FIGURA 7_
+###### _FIGURA 11_
 
 
 
@@ -116,37 +116,37 @@ Se mide el voltaje en la Resistencia R3  y la corriente  Ix cuando V1 = 0
 Se tiene que preparar los componenetes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/8.png)
-###### _FIGURA 8_
+###### _FIGURA 12_
 
 Se hace la creación del circuito del diagrama eléctrico en el protoboard
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/9.png)
-###### _FIGURA 9_
+###### _FIGURA 13_
 
 Se mide el voltaje de R3
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/7.png)
-###### _FIGURA 7_
+###### _FIGURA 14_
 
 Se mide la corriente de Ix
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/8.png)
-###### _FIGURA 7_
+###### _FIGURA 15_
 
 Se mide el voltaje de R3 cuando V2 = 0
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/9.png)
-###### _FIGURA 7_
+###### _FIGURA 16_
 
 Se mide la corriente de Ix cuando V2 = 0
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/10.png)
-###### _FIGURA 7_
+###### _FIGURA 17_
 
 
 Se mide el voltaje de R3 cuando V1 = 0
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/11.png)
-###### _FIGURA 7_
+###### _FIGURA 18_
 
 Se mide la corriente de Ix cuando V1 = 0
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/12.png)
-###### _FIGURA 7_
+###### _FIGURA 19_
 
 Nota: No se tiene una fuente de 20 V y de 12 V, se reemplazo la feunte de 20 V con una fuente de 9 V y la fuente de voltaje de 12 V sereemlazo con una fuente de 5 V
  
@@ -164,7 +164,7 @@ __4.4__ Medición de voltaje aplicando superposición.
 __4.5__ Medición de corriente aplicando superposición.
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/16.png)
 
-#### Calculos
+#### Calculos:
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/13.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/14.png)
