@@ -166,8 +166,8 @@ __4.5__ Medición de corriente aplicando superposición.
 
 #### Cálculos:
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/14.png)
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/13.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/14.png)
 
 
 ### 5. VIDEOS
