@@ -62,30 +62,26 @@ Este es el principio de superposición y se puede extender a un número cualquie
 
 - Diagramas eléctricos
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/4.png)
-###### _FIGURA 3_
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/11.png)
 
- - Diagramas esquemáticos.
+- Diagrama de bloques
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/3.png)
+![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/9.png)
 
-
-###### _FIGURA 4_
+### 4.	LISTA DE COMPONENTES
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
 | 1 |Protoboard | 
-| 1 |Fuente de voltaje de C.D. | 
-| 1 |Multímetro Digital| 
-| 1 |Resistencia 470 Ω | 
-| 1 |Resistencia 1.5 kΩ | 
-| 1 |Resistencia 1.8 kΩ | 
+| 2 |Fuente de voltaje de C.D. | 
+| 2 |Multímetro | 
+| 1 |Resistencia 1 kΩ | 
 | 1 |Resistencia 2,2 kΩ | 
-| 1 |Resistencia 3.9 kΩ |
+| 1 |Resistencia 820 Ω | 
+| 1 |Resistencia 470 Ω | 
  
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
-> 
 #### SIMULACIÓN
 Se tiene que preparar los componentes antes de la construcción del circuito
 
@@ -99,9 +95,15 @@ Se hace la creación del circuito del diagrama eléctrico en el protoboard
 
 ###### _FIGURA 6_
 
-Se mide el voltaje los nodos 1 y 2
+Se mide el voltaje en la Resistencia R3
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/7.png)
+
+Se mide la corriente en el nodo 2 
+
+
+
+
 ###### _FIGURA 7_
 
 #### MEDICIÓN
