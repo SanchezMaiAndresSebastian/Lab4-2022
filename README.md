@@ -141,11 +141,11 @@ Se mide la corriente de Ix cuando V2 = 0
 
 
 Se mide el voltaje de R3 cuando V1 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/11.png)
 ###### _FIGURA 7_
 
 Se mide la corriente de Ix cuando V1 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/11.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/12.png)
 ###### _FIGURA 7_
 
  
