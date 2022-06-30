@@ -162,6 +162,7 @@ __4.4__ Medición de voltaje aplicando superposición.
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/15.png)
 
 __4.5__ Medición de corriente aplicando superposición.
+o
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/16.png)
 
 #### Cálculos:
