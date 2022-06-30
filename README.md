@@ -96,17 +96,17 @@ Se hace la creación del circuito del diagrama eléctrico en el protoboard
 ###### _FIGURA 6_
 
 Se mide el voltaje en la Resistencia R3 y la corriente Ix
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/4.png)
 
 ###### _FIGURA 7_
 
 Se mide el voltaje en la Resistencia R3  y la corriente  Ix cuando V2 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/6.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/5.png)
 ###### _FIGURA 7_
 
 
 Se mide el voltaje en la Resistencia R3  y la corriente  Ix cuando V1 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/7.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/6.png)
 ###### _FIGURA 7_
 
 
@@ -124,19 +124,19 @@ Se hace la creación del circuito del diagrama eléctrico en el protoboard
 ###### _FIGURA 9_
 
 Se mide el voltaje de R3
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/8.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/7.png)
 ###### _FIGURA 7_
 
 Se mide la corriente de Ix
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/8.png)
 ###### _FIGURA 7_
 
 Se mide el voltaje de R3 cuando V2 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/9.png)
 ###### _FIGURA 7_
 
 Se mide la corriente de Ix cuando V2 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/10.png)
 ###### _FIGURA 7_
 
 
@@ -145,7 +145,7 @@ Se mide el voltaje de R3 cuando V1 = 0
 ###### _FIGURA 7_
 
 Se mide la corriente de Ix cuando V1 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/1.png)
+![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/11.png)
 ###### _FIGURA 7_
 
  
