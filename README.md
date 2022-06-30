@@ -68,7 +68,7 @@ Este es el principio de superposición y se puede extender a un número cualquie
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/2.png)
 
-### 4.	LISTA DE COMPONENTES
+####	LISTA DE COMPONENTES
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
