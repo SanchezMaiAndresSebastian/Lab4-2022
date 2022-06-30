@@ -168,10 +168,10 @@ En el circuito que hemos construido se ve como la unión de diferentes elementos
 https://youtu.be/dveq3ZmHeGI
 
 ### 6.	CONCLUSIONES
-- Para el cálculo de un nodo se tiene que usar la propiedad de ley de corriente de Kirchhoff el cual es que la suma de corrientes que entran en un nodo es igual a la suma de corrientes que sale del nodo.
-- Para la medición del voltaje del nodo se puede escoger las corrientes de entrada y de salida aleatoriamente.
-- No es lo mismo la medición de voltaje con corriente 
-- El multímetro tiene diferentes funcionamientos dependiendo si es digital o análogo.
+ - Se demostro que las leeys de lkirchoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
+ - Al momento de construir el circuito se tiene que tener en cuenta que tiene que conectarse correctamenet los cabls en el positivo y negativo de todos los instrumentos electricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
+ - Cuando en unn resistor se encuentra aplicado con el multímetro la medicion de su corriente, cambia el voltaje de los demas resistores que se tienen midiendo con los demás herraminetas.
+ _ Siempre tener la guia del sentido para poder resolver las mmlas y cabia totalmemnet si se apaga una fuente o no
  
 
 ### 7.	BIBLIOGRAFÍA
