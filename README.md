@@ -148,6 +148,7 @@ Se mide la corriente de Ix cuando V1 = 0
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/12.png)
 ###### _FIGURA 7_
 
+Nota: No se tiene una fuente de 20 V y de 12 V, se reemplazo la feunte de 20 V con una fuente de 9 V y la fuente de voltaje de 12 V sereemlazo con una fuente de 5 V
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
