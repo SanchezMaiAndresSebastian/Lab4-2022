@@ -151,33 +151,19 @@ Se mide la corriente de Ix cuando V1 = 0
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
-__5.1__ Tabulación de los datos
+__4.1__ Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
+tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
+el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+__4.2__ Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+__4.3__ Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+__4.4__ Medición de voltaje aplicando superposición.
 
-__5.2.1__ Compare los valores de la tabla 2.1 y realice sus conclusiones.
+__4.5__ Medición de corriente aplicando superposición.
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/13.png)
-
-__5.2.2__ Calculo del error
-
-Simulado
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/14.png)
-
-Medido
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/15.png)
-
-Calculos
-
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/16.png)
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab3-2022/blob/main/Fotos/17.png)
-###### _FIGURA 13_
-
-En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro). Después se pone las tomas del Multímetro en una parte del nodo que deseo medir, con el nodo de referencia y con eso obtengo la medición del voltaje de dicho nodo.
-
-##### Se hizo con una fuente de voltaje de 9 V, reemplazando a la fuente de 10 V
 
 ### 5. VIDEOS
 
