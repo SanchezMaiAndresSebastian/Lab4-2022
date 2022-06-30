@@ -172,7 +172,7 @@ __4.5__ Medición de corriente aplicando superposición.
 
 ### 5. VIDEOS
 
-https://youtu.be/dveq3ZmHeGI
+https://youtu.be/Qf3fwOyQK7Q
 
 ### 6.	CONCLUSIONES
  - Se demostró que las leyes de Kirchhoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
